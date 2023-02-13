@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    height: 90%;
+    background-color: #d0d0d0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 4vh auto;
+    border: 1px solid #d0d0d0;
+    border-radius: 20px;
+}
+
+input {
+    margin: 7px 0;
+}
+
+button {
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#show-price {
+    padding: 10px 0 ;
+}
